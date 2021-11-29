@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">secondlesson</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="notification">Notification</string>
+    <string name="name1">Roman Kamushken</string>
+    <string name="name2">Tina Turbina</string>
+    <string name="name3">Tomek Kuwalskji</string>
+    <string name="text1">Check out awesome updates for Android design kit for Figma. Now more screens and more categories.</string>
+    <string name="text2">“into component container and with resizing constraints set????”</string>
+    <string name="text3">“into component container and with resizing constraints set????”</string>
+    <string name="repost">117 replays</string>
+    <string name="account">Account</string>
+    <string name="like">Like</string>
+    <string name="day1">2 days ago</string>
+
+
+</resources>
