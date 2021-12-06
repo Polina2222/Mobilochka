@@ -1,0 +1,12 @@
+com/example/thirdlesson/databinding/FragmentFragment3Binding.java
+ com.example.thirdlesson.databinding.FragmentFragment3Binding
+com/example/thirdlesson/databinding/ActivityMainBinding.java
+ com.example.thirdlesson.databinding.ActivityMainBinding
+com/example/thirdlesson/databinding/FragmentFragment2Binding.java
+ com.example.thirdlesson.databinding.FragmentFragment2Binding
+com/example/thirdlesson/databinding/FragmentFragment1Binding.java
+ com.example.thirdlesson.databinding.FragmentFragment1Binding
+com/example/thirdlesson/BuildConfig.java
+ com.example.thirdlesson.BuildConfig
+com/example/thirdlesson/databinding/FragmentFragment4Binding.java
+ com.example.thirdlesson.databinding.FragmentFragment4Binding
