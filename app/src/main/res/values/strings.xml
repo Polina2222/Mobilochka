@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">thirdlesson</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+
+    <string name="first_num">Введите первое число</string>
+
+    <string name="second_num">Введите второе число</string>
+    <string name="result">Результат:</string>
+
+    <string name="textview">TextView</string>
+
+    <string name="next">Вперед</string>
+    <string name="back">Назад</string>
+
+    <string name="math">Введите математическую операцию:</string>
+    <string name="math_op">мат. операция</string>
+
+
+
+</resources>
