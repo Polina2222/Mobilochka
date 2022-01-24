@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sixlab</string>
+    <string name="title">Sixlab</string>
+    <string name="add_node">Введите NODE</string>
+    <string name="add">Добавить</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отмена</string>
+    <string name="child_elem">Дочерний элемент</string>
+    <string name="parent_elem">Родительский элемент</string>
+</resources>
